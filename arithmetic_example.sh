@@ -1,4 +1,5 @@
 #!/bin/bash
+# This script performs an arithmeti calacualation to calaculate number of seconds in a day
 sec_permin=60
 min_perhr=60
 hrs_perday=24
