@@ -1,0 +1,7 @@
+Shell script starts with she bang #!/bin/bash
+for displaying output we will use echo command, for displaying variables we will use echo $
+while declaring the varaibles only _ is allowed
+Varaibles are case sensitive
+providing executable permission to user chmod u+x <filename.sh>
+for displaying time using echo command is echo "current time is 'date +%F'" or echo "current time is $(date)"
+usage of arithmetic expressions echo $[5+3] , echo $[2*3]
